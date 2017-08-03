@@ -1,0 +1,65 @@
+***********************
+*  UPCOMING FEATURES  *
+***********************
+
+ * 3.x - live_weather_station_overload_hc as setting
+ * 3.x - live_weather_station_force_frontend_styling as setting
+ * 3.x - Sun (meridian) transit time
+ * 3.x - Querying icons texts via shortcodes
+ * 3.x - Forest fire weather index computing
+ * 3.x - Wet bulb
+ * 3.x - Air density
+ * 3.x - Aridity index computing
+ * 3.x - Equilibrium moisture content
+ * 3.x - Pushing data to twitter / slack / fb / ...
+ * 3.x - Extra heat indexes
+ * 3.x - Solar measurements
+ * 3.x - Soil & leaf measurements
+ * 3.x - Visibility
+ * 4.x - 4 hours forecasting
+ * 4.x - 5 days forecasting
+ * 4.x - Buttons and config windows in TinyMCE
+ * 4.x - Quota Manager
+
+
+
+***********************
+*  UPCOMING CONTROLS  *
+***********************
+
+ * 4.x - Icons dashboard
+ * 4.x - Pollution widget
+ * 5.x - Marine widget
+ * 5.x - Aero widget
+ * 5.x - Snow widget
+
+
+
+***********************
+* FUTURE IMPROVEMENTS *
+***********************
+
+ * 3.x - Ability to change text color in clean gauges
+ * 3.x - Change the modal bow for shortcodes
+
+
+
+***********************
+* DATA I/O            *
+***********************
+
+ * 3.x - Clientraw as export
+ * 3.x - Realtime as export
+ * 3.x - YOWindow.xml as export
+ * 3.x - all-sensors.xml as import
+ * 3.x - stickertags as import
+ * 3.x - weatherlink as import
+ * 4.x - Metar
+ * 4.x - NOAA
+
+
+***********************
+* FIXES TO DO         *
+***********************
+
+cron manager documentation
